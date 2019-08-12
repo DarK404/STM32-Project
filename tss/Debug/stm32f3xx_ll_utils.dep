@@ -1,0 +1,21 @@
+Debug/stm32f3xx_ll_utils.o: \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_utils.c \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_rcc.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include/stm32f3xx.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include/stm32f303x8.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include/core_cm4.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include/core_cmInstr.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include/cmsis_gcc.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include/core_cmFunc.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include/core_cmSimd.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include/system_stm32f3xx.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_utils.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_system.h \
+ C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_pwr.h

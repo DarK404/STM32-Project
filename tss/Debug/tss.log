@@ -1,0 +1,12 @@
+﻿  VisualGDB: Run "C:\SysGCC\arm-eabi\bin\make.exe  CONFIG=Debug -j8" in directory "C:\Users\khali\OneDrive\Bureau\wafafinal\tss" on local computer
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -IInc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c Src/gpio.c -o Debug/gpio.o -MD -MF Debug/gpio.dep
+  make: *** No rule to make target `Inc/tim.h', needed by `Debug/main.o'.  Stop.
+  make: *** Waiting for unfinished jobs....
+  -------------------------------------------------------------
+  Command exited with code 2
+  Executable: C:\SysGCC\arm-eabi\bin\make.exe
+  Arguments:  CONFIG=Debug -j8
+  Directory: C:\Users\khali\OneDrive\Bureau\wafafinal\tss
+VisualGDB : error : Command-line action failed
+VisualGDB : error : Build has failed. See the Output window for more details.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files (x86)\Sysprogs\VisualGDB\\VisualGDB.exe" /build "C:\Users\khali\OneDrive\Bureau\wafafinal\tss\tss.vcxproj" "/solution:C:\Users\khali\OneDrive\Bureau\wafafinal\tss\tss.sln"  "/config:Debug" "/platform:Win32"" exited with code 1.

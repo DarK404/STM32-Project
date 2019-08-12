@@ -1,0 +1,499 @@
+﻿  VisualGDB: Run "C:\SysGCC\arm-eabi\bin\make.exe  CONFIG=Debug -j8" in directory "C:\Users\khali\OneDrive\Bureau\wafafinal\projet" on local computer
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1613): warning : overriding recipe for target `Debug/system_stm32f3xx.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(229): warning : ignoring old recipe for target `Debug/system_stm32f3xx.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1621): warning : overriding recipe for target `Debug/stm32f3xx_hal.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1317): warning : ignoring old recipe for target `Debug/stm32f3xx_hal.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1625): warning : overriding recipe for target `Debug/stm32f3xx_hal_adc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1321): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_adc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1629): warning : overriding recipe for target `Debug/stm32f3xx_hal_adc_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1325): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_adc_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1633): warning : overriding recipe for target `Debug/stm32f3xx_hal_can.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1329): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_can.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1637): warning : overriding recipe for target `Debug/stm32f3xx_hal_cec.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1333): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_cec.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1641): warning : overriding recipe for target `Debug/stm32f3xx_hal_comp.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1337): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_comp.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1645): warning : overriding recipe for target `Debug/stm32f3xx_hal_cortex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1341): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_cortex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1649): warning : overriding recipe for target `Debug/stm32f3xx_hal_crc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1345): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_crc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1653): warning : overriding recipe for target `Debug/stm32f3xx_hal_crc_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1349): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_crc_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1657): warning : overriding recipe for target `Debug/stm32f3xx_hal_dac.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1353): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_dac.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1661): warning : overriding recipe for target `Debug/stm32f3xx_hal_dac_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1357): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_dac_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1665): warning : overriding recipe for target `Debug/stm32f3xx_hal_dma.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1361): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_dma.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1669): warning : overriding recipe for target `Debug/stm32f3xx_hal_flash.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1365): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_flash.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1673): warning : overriding recipe for target `Debug/stm32f3xx_hal_flash_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1369): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_flash_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1677): warning : overriding recipe for target `Debug/stm32f3xx_hal_gpio.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1373): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_gpio.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1681): warning : overriding recipe for target `Debug/stm32f3xx_hal_hrtim.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1377): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_hrtim.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1685): warning : overriding recipe for target `Debug/stm32f3xx_hal_i2c.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1381): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_i2c.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1689): warning : overriding recipe for target `Debug/stm32f3xx_hal_i2c_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1385): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_i2c_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1693): warning : overriding recipe for target `Debug/stm32f3xx_hal_i2s.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1389): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_i2s.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1697): warning : overriding recipe for target `Debug/stm32f3xx_hal_i2s_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1393): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_i2s_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1701): warning : overriding recipe for target `Debug/stm32f3xx_hal_irda.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1397): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_irda.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1705): warning : overriding recipe for target `Debug/stm32f3xx_hal_iwdg.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1401): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_iwdg.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1709): warning : overriding recipe for target `Debug/stm32f3xx_hal_nand.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1409): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_nand.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1713): warning : overriding recipe for target `Debug/stm32f3xx_hal_nor.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1413): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_nor.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1717): warning : overriding recipe for target `Debug/stm32f3xx_hal_opamp.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1417): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_opamp.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1721): warning : overriding recipe for target `Debug/stm32f3xx_hal_opamp_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1421): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_opamp_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1725): warning : overriding recipe for target `Debug/stm32f3xx_hal_pccard.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1425): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_pccard.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1729): warning : overriding recipe for target `Debug/stm32f3xx_hal_pcd.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1429): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_pcd.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1733): warning : overriding recipe for target `Debug/stm32f3xx_hal_pcd_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1433): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_pcd_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1737): warning : overriding recipe for target `Debug/stm32f3xx_hal_pwr.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1437): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_pwr.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1741): warning : overriding recipe for target `Debug/stm32f3xx_hal_pwr_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1441): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_pwr_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1745): warning : overriding recipe for target `Debug/stm32f3xx_hal_rcc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1445): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_rcc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1749): warning : overriding recipe for target `Debug/stm32f3xx_hal_rcc_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1449): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_rcc_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1753): warning : overriding recipe for target `Debug/stm32f3xx_hal_rtc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1453): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_rtc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1757): warning : overriding recipe for target `Debug/stm32f3xx_hal_rtc_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1457): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_rtc_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1761): warning : overriding recipe for target `Debug/stm32f3xx_hal_sdadc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1461): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_sdadc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1765): warning : overriding recipe for target `Debug/stm32f3xx_hal_smartcard.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1465): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_smartcard.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1769): warning : overriding recipe for target `Debug/stm32f3xx_hal_smartcard_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1469): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_smartcard_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1773): warning : overriding recipe for target `Debug/stm32f3xx_hal_smbus.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1473): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_smbus.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1777): warning : overriding recipe for target `Debug/stm32f3xx_hal_spi.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1477): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_spi.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1781): warning : overriding recipe for target `Debug/stm32f3xx_hal_spi_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1481): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_spi_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1785): warning : overriding recipe for target `Debug/stm32f3xx_hal_sram.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1485): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_sram.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1789): warning : overriding recipe for target `Debug/stm32f3xx_hal_tim.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1489): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_tim.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1793): warning : overriding recipe for target `Debug/stm32f3xx_hal_tim_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1505): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_tim_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1797): warning : overriding recipe for target `Debug/stm32f3xx_hal_tsc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1509): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_tsc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1801): warning : overriding recipe for target `Debug/stm32f3xx_hal_uart.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1513): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_uart.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1805): warning : overriding recipe for target `Debug/stm32f3xx_hal_uart_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1517): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_uart_ex.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1809): warning : overriding recipe for target `Debug/stm32f3xx_hal_usart.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1521): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_usart.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1813): warning : overriding recipe for target `Debug/stm32f3xx_hal_wwdg.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1525): warning : ignoring old recipe for target `Debug/stm32f3xx_hal_wwdg.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1817): warning : overriding recipe for target `Debug/stm32f3xx_ll_adc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1529): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_adc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1821): warning : overriding recipe for target `Debug/stm32f3xx_ll_comp.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1533): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_comp.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1825): warning : overriding recipe for target `Debug/stm32f3xx_ll_crc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1537): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_crc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1829): warning : overriding recipe for target `Debug/stm32f3xx_ll_dac.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1541): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_dac.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1833): warning : overriding recipe for target `Debug/stm32f3xx_ll_dma.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1545): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_dma.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1837): warning : overriding recipe for target `Debug/stm32f3xx_ll_exti.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1549): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_exti.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1841): warning : overriding recipe for target `Debug/stm32f3xx_ll_fmc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1553): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_fmc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1845): warning : overriding recipe for target `Debug/stm32f3xx_ll_gpio.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1557): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_gpio.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1849): warning : overriding recipe for target `Debug/stm32f3xx_ll_hrtim.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1561): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_hrtim.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1853): warning : overriding recipe for target `Debug/stm32f3xx_ll_i2c.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1565): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_i2c.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1857): warning : overriding recipe for target `Debug/stm32f3xx_ll_opamp.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1569): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_opamp.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1861): warning : overriding recipe for target `Debug/stm32f3xx_ll_pwr.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1573): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_pwr.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1865): warning : overriding recipe for target `Debug/stm32f3xx_ll_rcc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1577): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_rcc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1869): warning : overriding recipe for target `Debug/stm32f3xx_ll_rtc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1581): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_rtc.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1873): warning : overriding recipe for target `Debug/stm32f3xx_ll_spi.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1585): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_spi.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1877): warning : overriding recipe for target `Debug/stm32f3xx_ll_tim.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1589): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_tim.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1881): warning : overriding recipe for target `Debug/stm32f3xx_ll_usart.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1593): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_usart.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1885): warning : overriding recipe for target `Debug/stm32f3xx_ll_utils.o'
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\Makefile(1597): warning : ignoring old recipe for target `Debug/stm32f3xx_ll_utils.o'
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -I../test/Inc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_alarm_template.c -o Debug/stm32f3xx_hal_timebase_rtc_alarm_template.o -MD -MF Debug/stm32f3xx_hal_timebase_rtc_alarm_template.dep
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -I../test/Inc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_wakeup_template.c -o Debug/stm32f3xx_hal_timebase_rtc_wakeup_template.o -MD -MF Debug/stm32f3xx_hal_timebase_rtc_wakeup_template.dep
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -I../test/Inc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_tim_template.c -o Debug/stm32f3xx_hal_timebase_tim_template.o -MD -MF Debug/stm32f3xx_hal_timebase_tim_template.dep
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(98,1): error : unknown type name 'RTC_HandleTypeDef'; did you mean 'I2C_HandleTypeDef'?
+   RTC_HandleTypeDef        hRTC_Handle;
+   ^~~~~~~~~~~~~~~~~
+   I2C_HandleTypeDef
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_alarm_template.c: In function 'HAL_InitTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(160,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance = RTC;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(161,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.HourFormat = RTC_HOURFORMAT_24;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(161,37): error : 'RTC_HOURFORMAT_24' undeclared (first use in this function); did you mean 'RTC_TSTR_MNT_2'?
+         hRTC_Handle.Init.HourFormat = RTC_HOURFORMAT_24;
+                                       ^~~~~~~~~~~~~~~~~
+                                       RTC_TSTR_MNT_2
+  C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(161,37): note :  each undeclared identifier is reported only once for each function it appears in
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(162,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.AsynchPrediv = RTC_ASYNCH_PREDIV;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(163,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.SynchPrediv = RTC_SYNCH_PREDIV;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(164,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.OutPut = RTC_OUTPUT_DISABLE;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(164,33): error : 'RTC_OUTPUT_DISABLE' undeclared (first use in this function); did you mean '__USART_DISABLE'?
+         hRTC_Handle.Init.OutPut = RTC_OUTPUT_DISABLE;
+                                   ^~~~~~~~~~~~~~~~~~
+                                   __USART_DISABLE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(165,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.OutPutPolarity = RTC_OUTPUT_POLARITY_HIGH;
+                    ^
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -I../test/Inc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_dma.c -o Debug/stm32f3xx_ll_dma.o -MD -MF Debug/stm32f3xx_ll_dma.dep
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(165,41): error : 'RTC_OUTPUT_POLARITY_HIGH' undeclared (first use in this function); did you mean 'RTC_OUTPUT_REMAP_PC13'?
+         hRTC_Handle.Init.OutPutPolarity = RTC_OUTPUT_POLARITY_HIGH;
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~
+                                           RTC_OUTPUT_REMAP_PC13
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(166,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.OutPutType = RTC_OUTPUT_TYPE_OPENDRAIN;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(166,37): error : 'RTC_OUTPUT_TYPE_OPENDRAIN' undeclared (first use in this function); did you mean 'RTC_OUTPUT_REMAP_PC13'?
+         hRTC_Handle.Init.OutPutType = RTC_OUTPUT_TYPE_OPENDRAIN;
+                                       ^~~~~~~~~~~~~~~~~~~~~~~~~
+                                       RTC_OUTPUT_REMAP_PC13
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(167,7): warning : implicit declaration of function 'HAL_RTC_Init'; did you mean 'HAL_I2C_Init'? [-Wimplicit-function-declaration]
+         HAL_RTC_Init(&hRTC_Handle);
+         ^~~~~~~~~~~~
+         HAL_I2C_Init
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(170,7): warning : implicit declaration of function '__HAL_RTC_WRITEPROTECTION_DISABLE'; did you mean '__RTC_WRITEPROTECTION_DISABLE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WRITEPROTECTION_DISABLE(&hRTC_Handle);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __RTC_WRITEPROTECTION_DISABLE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(173,7): warning : implicit declaration of function '__HAL_RTC_ALARMA_DISABLE'; did you mean '__HAL_RCC_PLL_DISABLE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_ALARMA_DISABLE(&hRTC_Handle);
+         ^~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RCC_PLL_DISABLE
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -I../test/Inc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_exti.c -o Debug/stm32f3xx_ll_exti.o -MD -MF Debug/stm32f3xx_ll_exti.dep
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(176,7): warning : implicit declaration of function '__HAL_RTC_ALARM_CLEAR_FLAG'; did you mean '__HAL_RTC_EXTI_CLEAR_FLAG'? [-Wimplicit-function-declaration]
+         __HAL_RTC_ALARM_CLEAR_FLAG(&hRTC_Handle, RTC_FLAG_ALRAF);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RTC_EXTI_CLEAR_FLAG
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(99,1): error : unknown type name 'RTC_HandleTypeDef'; did you mean 'I2C_HandleTypeDef'?
+   RTC_HandleTypeDef        hRTC_Handle;
+   ^~~~~~~~~~~~~~~~~
+   I2C_HandleTypeDef
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_wakeup_template.c: In function 'HAL_InitTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(167,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance = RTC;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(168,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.HourFormat = RTC_HOURFORMAT_24;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(176,48): error : 'RTC_FLAG_ALRAF' undeclared (first use in this function); did you mean 'RTC_ISR_ALRAF'?
+         __HAL_RTC_ALARM_CLEAR_FLAG(&hRTC_Handle, RTC_FLAG_ALRAF);
+                                                  ^~~~~~~~~~~~~~
+                                                  RTC_ISR_ALRAF
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(180,13): warning : implicit declaration of function '__HAL_RTC_ALARM_GET_FLAG'; did you mean '__HAL_RTC_EXTI_GET_FLAG'? [-Wimplicit-function-declaration]
+         while(__HAL_RTC_ALARM_GET_FLAG(&hRTC_Handle, RTC_FLAG_ALRAWF) == RESET)
+               ^~~~~~~~~~~~~~~~~~~~~~~~
+               __HAL_RTC_EXTI_GET_FLAG
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(180,52): error : 'RTC_FLAG_ALRAWF' undeclared (first use in this function); did you mean 'RTC_FLAG_ALRAF'?
+         while(__HAL_RTC_ALARM_GET_FLAG(&hRTC_Handle, RTC_FLAG_ALRAWF) == RESET)
+                                                      ^~~~~~~~~~~~~~~
+                                                      RTC_FLAG_ALRAF
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(188,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance->ALRMAR = 0x01U;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(168,37): error : 'RTC_HOURFORMAT_24' undeclared (first use in this function); did you mean 'RTC_TSTR_MNT_2'?
+         hRTC_Handle.Init.HourFormat = RTC_HOURFORMAT_24;
+                                       ^~~~~~~~~~~~~~~~~
+                                       RTC_TSTR_MNT_2
+  C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(168,37): note :  each undeclared identifier is reported only once for each function it appears in
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(169,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.AsynchPrediv = RTC_ASYNCH_PREDIV;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(170,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.SynchPrediv = RTC_SYNCH_PREDIV;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(171,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.OutPut = RTC_OUTPUT_DISABLE;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(191,7): warning : implicit declaration of function '__HAL_RTC_ALARMA_ENABLE'; did you mean '__HAL_RCC_PLL_ENABLE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_ALARMA_ENABLE(&hRTC_Handle);
+         ^~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RCC_PLL_ENABLE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(193,7): warning : implicit declaration of function '__HAL_RTC_ALARM_ENABLE_IT'; did you mean '__HAL_RTC_EXTI_ENABLE_IT'? [-Wimplicit-function-declaration]
+         __HAL_RTC_ALARM_ENABLE_IT(&hRTC_Handle, RTC_IT_ALRA);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RTC_EXTI_ENABLE_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(171,33): error : 'RTC_OUTPUT_DISABLE' undeclared (first use in this function); did you mean '__USART_DISABLE'?
+         hRTC_Handle.Init.OutPut = RTC_OUTPUT_DISABLE;
+                                   ^~~~~~~~~~~~~~~~~~
+                                   __USART_DISABLE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(172,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.OutPutPolarity = RTC_OUTPUT_POLARITY_HIGH;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(193,47): error : 'RTC_IT_ALRA' undeclared (first use in this function); did you mean 'RTC_CR_ALRAE'?
+         __HAL_RTC_ALARM_ENABLE_IT(&hRTC_Handle, RTC_IT_ALRA);
+                                                 ^~~~~~~~~~~
+                                                 RTC_CR_ALRAE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(196,7): warning : implicit declaration of function '__HAL_RTC_ALARM_EXTI_ENABLE_IT'; did you mean '__HAL_RTC_EXTI_ENABLE_IT'? [-Wimplicit-function-declaration]
+         __HAL_RTC_ALARM_EXTI_ENABLE_IT();
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RTC_EXTI_ENABLE_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(197,7): warning : implicit declaration of function '__HAL_RTC_ALARM_EXTI_ENABLE_RISING_EDGE'; did you mean '__HAL_PWR_PVD_EXTI_ENABLE_RISING_EDGE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_ALARM_EXTI_ENABLE_RISING_EDGE();
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_PWR_PVD_EXTI_ENABLE_RISING_EDGE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(200,22): error : request for member 'Instance' in something not a structure or union
+         if((hRTC_Handle.Instance->ISR & RTC_ISR_INITF) == (uint32_t)RESET)
+                        ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(203,20): error : request for member 'Instance' in something not a structure or union
+           hRTC_Handle.Instance->ISR = (uint32_t)RTC_INIT_MASK;
+                      ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(172,41): error : 'RTC_OUTPUT_POLARITY_HIGH' undeclared (first use in this function); did you mean 'RTC_OUTPUT_REMAP_PC13'?
+         hRTC_Handle.Init.OutPutPolarity = RTC_OUTPUT_POLARITY_HIGH;
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~
+                                           RTC_OUTPUT_REMAP_PC13
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(173,18): error : request for member 'Init' in something not a structure or union
+         hRTC_Handle.Init.OutPutType = RTC_OUTPUT_TYPE_OPENDRAIN;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(203,47): error : 'RTC_INIT_MASK' undeclared (first use in this function); did you mean 'RCC_FLAG_MASK'?
+           hRTC_Handle.Instance->ISR = (uint32_t)RTC_INIT_MASK;
+                                                 ^~~~~~~~~~~~~
+                                                 RCC_FLAG_MASK
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(205,27): error : request for member 'Instance' in something not a structure or union
+           while((hRTC_Handle.Instance->ISR & RTC_ISR_INITF) == (uint32_t)RESET)
+                             ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(213,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance->DR = 0U;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(214,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance->TR = 0U;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(216,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance->ISR &= (uint32_t)~RTC_ISR_INIT;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(219,7): warning : implicit declaration of function '__HAL_RTC_WRITEPROTECTION_ENABLE'; did you mean '__RTC_WRITEPROTECTION_ENABLE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WRITEPROTECTION_ENABLE(&hRTC_Handle);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __RTC_WRITEPROTECTION_ENABLE
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_alarm_template.c: In function 'HAL_SuspendTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(240,3): warning : implicit declaration of function '__HAL_RTC_ALARM_DISABLE_IT'; did you mean '__HAL_RTC_EXTI_DISABLE_IT'? [-Wimplicit-function-declaration]
+     __HAL_RTC_ALARM_DISABLE_IT(&hRTC_Handle, RTC_IT_ALRA);
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~
+     __HAL_RTC_EXTI_DISABLE_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(173,37): error : 'RTC_OUTPUT_TYPE_OPENDRAIN' undeclared (first use in this function); did you mean 'RTC_OUTPUT_REMAP_PC13'?
+         hRTC_Handle.Init.OutPutType = RTC_OUTPUT_TYPE_OPENDRAIN;
+                                       ^~~~~~~~~~~~~~~~~~~~~~~~~
+                                       RTC_OUTPUT_REMAP_PC13
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(240,44): error : 'RTC_IT_ALRA' undeclared (first use in this function); did you mean 'RTC_CR_ALRAE'?
+     __HAL_RTC_ALARM_DISABLE_IT(&hRTC_Handle, RTC_IT_ALRA);
+                                              ^~~~~~~~~~~
+                                              RTC_CR_ALRAE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(174,7): warning : implicit declaration of function 'HAL_RTC_Init'; did you mean 'HAL_I2C_Init'? [-Wimplicit-function-declaration]
+         HAL_RTC_Init(&hRTC_Handle);
+         ^~~~~~~~~~~~
+         HAL_I2C_Init
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_alarm_template.c: In function 'HAL_ResumeTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(256,43): error : 'RTC_IT_ALRA' undeclared (first use in this function); did you mean 'RTC_CR_ALRAE'?
+     __HAL_RTC_ALARM_ENABLE_IT(&hRTC_Handle, RTC_IT_ALRA);
+                                             ^~~~~~~~~~~
+                                             RTC_CR_ALRAE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(177,7): warning : implicit declaration of function '__HAL_RTC_WRITEPROTECTION_DISABLE'; did you mean '__RTC_WRITEPROTECTION_DISABLE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WRITEPROTECTION_DISABLE(&hRTC_Handle);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __RTC_WRITEPROTECTION_DISABLE
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_alarm_template.c: At top level:
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(269,34): error : unknown type name 'RTC_HandleTypeDef'; did you mean 'I2C_HandleTypeDef'?
+   void HAL_RTC_AlarmAEventCallback(RTC_HandleTypeDef *hrtc)
+                                    ^~~~~~~~~~~~~~~~~
+                                    I2C_HandleTypeDef
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -I../test/Inc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_fmc.c -o Debug/stm32f3xx_ll_fmc.o -MD -MF Debug/stm32f3xx_ll_fmc.dep
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_alarm_template.c: In function 'RTC_Alarm_IRQHandler':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_alarm_template.c(304,3): warning : implicit declaration of function 'HAL_RTC_AlarmIRQHandler'; did you mean 'RTC_Alarm_IRQHandler'? [-Wimplicit-function-declaration]
+     HAL_RTC_AlarmIRQHandler(&hRTC_Handle);
+     ^~~~~~~~~~~~~~~~~~~~~~~
+     RTC_Alarm_IRQHandler
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(180,7): warning : implicit declaration of function '__HAL_RTC_WAKEUPTIMER_DISABLE'; did you mean '__HAL_REMAPTRIGGER_DISABLE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WAKEUPTIMER_DISABLE(&hRTC_Handle);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_REMAPTRIGGER_DISABLE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(56,1): error : unknown type name 'TIM_HandleTypeDef'; did you mean 'I2C_HandleTypeDef'?
+   TIM_HandleTypeDef        TimHandle;
+   ^~~~~~~~~~~~~~~~~
+   I2C_HandleTypeDef
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_tim_template.c: In function 'HAL_InitTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(106,12): error : request for member 'Instance' in something not a structure or union
+     TimHandle.Instance = TIM6;
+              ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(114,12): error : request for member 'Init' in something not a structure or union
+     TimHandle.Init.Period = (1000000U / 1000U) - 1U;
+              ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(115,12): error : request for member 'Init' in something not a structure or union
+     TimHandle.Init.Prescaler = uwPrescalerValue;
+              ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(116,12): error : request for member 'Init' in something not a structure or union
+     TimHandle.Init.ClockDivision = 0U;
+              ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(117,12): error : request for member 'Init' in something not a structure or union
+     TimHandle.Init.CounterMode = TIM_COUNTERMODE_UP;
+              ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(183,7): warning : implicit declaration of function '__HAL_RTC_WAKEUPTIMER_DISABLE_IT'; did you mean '__HAL_RTC_EXTI_DISABLE_IT'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WAKEUPTIMER_DISABLE_IT(&hRTC_Handle,RTC_IT_WUT);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RTC_EXTI_DISABLE_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(183,53): error : 'RTC_IT_WUT' undeclared (first use in this function); did you mean 'RTC_CR_WUTE'?
+         __HAL_RTC_WAKEUPTIMER_DISABLE_IT(&hRTC_Handle,RTC_IT_WUT);
+                                                       ^~~~~~~~~~
+                                                       RTC_CR_WUTE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(117,32): error : 'TIM_COUNTERMODE_UP' undeclared (first use in this function); did you mean '__COUNTER__'?
+     TimHandle.Init.CounterMode = TIM_COUNTERMODE_UP;
+                                  ^~~~~~~~~~~~~~~~~~
+                                  __COUNTER__
+  C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(117,32): note :  each undeclared identifier is reported only once for each function it appears in
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(118,12): error : request for member 'Init' in something not a structure or union
+     TimHandle.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_DISABLE;
+              ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(186,13): warning : implicit declaration of function '__HAL_RTC_WAKEUPTIMER_GET_FLAG'; did you mean '__HAL_RTC_EXTI_GET_FLAG'? [-Wimplicit-function-declaration]
+         while(__HAL_RTC_WAKEUPTIMER_GET_FLAG(&hRTC_Handle, RTC_FLAG_WUTWF) == RESET)
+               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+               __HAL_RTC_EXTI_GET_FLAG
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(186,58): error : 'RTC_FLAG_WUTWF' undeclared (first use in this function); did you mean 'RTC_ISR_WUTWF'?
+         while(__HAL_RTC_WAKEUPTIMER_GET_FLAG(&hRTC_Handle, RTC_FLAG_WUTWF) == RESET)
+                                                            ^~~~~~~~~~~~~~
+                                                            RTC_ISR_WUTWF
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -I../test/Inc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_gpio.c -o Debug/stm32f3xx_ll_gpio.o -MD -MF Debug/stm32f3xx_ll_gpio.dep
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(118,38): error : 'TIM_AUTORELOAD_PRELOAD_DISABLE' undeclared (first use in this function); did you mean 'I2C_DUALADDRESS_DISABLE'?
+     TimHandle.Init.AutoReloadPreload = TIM_AUTORELOAD_PRELOAD_DISABLE;
+                                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                        I2C_DUALADDRESS_DISABLE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(198,7): warning : implicit declaration of function '__HAL_RTC_WAKEUPTIMER_CLEAR_FLAG'; did you mean '__HAL_RTC_EXTI_CLEAR_FLAG'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WAKEUPTIMER_CLEAR_FLAG(&hRTC_Handle, RTC_FLAG_WUTF);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RTC_EXTI_CLEAR_FLAG
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(198,54): error : 'RTC_FLAG_WUTF' undeclared (first use in this function); did you mean 'RTC_FLAG_WUTWF'?
+         __HAL_RTC_WAKEUPTIMER_CLEAR_FLAG(&hRTC_Handle, RTC_FLAG_WUTF);
+                                                        ^~~~~~~~~~~~~
+                                                        RTC_FLAG_WUTWF
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(201,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance->WUTR = 0U;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(204,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance->CR &= (uint32_t)~RTC_CR_WUCKSEL;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(207,18): error : request for member 'Instance' in something not a structure or union
+         hRTC_Handle.Instance->CR |= (uint32_t)RTC_WAKEUPCLOCK_CK_SPRE_16BITS;
+                    ^
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(119,6): warning : implicit declaration of function 'HAL_TIM_Base_Init'; did you mean 'HAL_MspDeInit'? [-Wimplicit-function-declaration]
+     if(HAL_TIM_Base_Init(&TimHandle) == HAL_OK)
+        ^~~~~~~~~~~~~~~~~
+        HAL_MspDeInit
+  C:/SysGCC/arm-eabi/bin/arm-eabi-gcc.exe -ggdb -ffunction-sections -O0   -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=soft -I../test/Inc -I. -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Inc/Legacy -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Device/ST/STM32F3xx/Include -IC:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/CMSIS_HAL/Include -DDEBUG=1 -DARM_MATH_CM4 -Dflash_layout -DSTM32F303K8 -DSTM32F303x8 -DUSE_LEGACY  -c C:/Users/khali/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F3xxxx/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_hrtim.c -o Debug/stm32f3xx_ll_hrtim.o -MD -MF Debug/stm32f3xx_ll_hrtim.dep
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(207,45): error : 'RTC_WAKEUPCLOCK_CK_SPRE_16BITS' undeclared (first use in this function)
+         hRTC_Handle.Instance->CR |= (uint32_t)RTC_WAKEUPCLOCK_CK_SPRE_16BITS;
+                                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(210,7): warning : implicit declaration of function '__HAL_RTC_WAKEUPTIMER_EXTI_ENABLE_IT'; did you mean '__HAL_RTC_EXTI_ENABLE_IT'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WAKEUPTIMER_EXTI_ENABLE_IT();
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RTC_EXTI_ENABLE_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(122,12): warning : implicit declaration of function 'HAL_TIM_Base_Start_IT'; did you mean 'HAL_DMA_Start_IT'? [-Wimplicit-function-declaration]
+       return HAL_TIM_Base_Start_IT(&TimHandle);
+              ^~~~~~~~~~~~~~~~~~~~~
+              HAL_DMA_Start_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(212,7): warning : implicit declaration of function '__HAL_RTC_WAKEUPTIMER_EXTI_ENABLE_RISING_EDGE'; did you mean '__HAL_PWR_PVD_EXTI_ENABLE_RISING_EDGE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WAKEUPTIMER_EXTI_ENABLE_RISING_EDGE();
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_PWR_PVD_EXTI_ENABLE_RISING_EDGE
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_tim_template.c: In function 'HAL_SuspendTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(138,3): warning : implicit declaration of function '__HAL_TIM_DISABLE_IT'; did you mean '__HAL_RTC_DISABLE_IT'? [-Wimplicit-function-declaration]
+     __HAL_TIM_DISABLE_IT(&TimHandle, TIM_IT_UPDATE);
+     ^~~~~~~~~~~~~~~~~~~~
+     __HAL_RTC_DISABLE_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(215,7): warning : implicit declaration of function '__HAL_RTC_WAKEUPTIMER_ENABLE_IT'; did you mean '__HAL_RTC_EXTI_ENABLE_IT'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WAKEUPTIMER_ENABLE_IT(&hRTC_Handle,RTC_IT_WUT);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_RTC_EXTI_ENABLE_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(138,36): error : 'TIM_IT_UPDATE' undeclared (first use in this function); did you mean 'TIM_DIER_UDE'?
+     __HAL_TIM_DISABLE_IT(&TimHandle, TIM_IT_UPDATE);
+                                      ^~~~~~~~~~~~~
+                                      TIM_DIER_UDE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(218,7): warning : implicit declaration of function '__HAL_RTC_WAKEUPTIMER_ENABLE'; did you mean '__HAL_REMAPTRIGGER_ENABLE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WAKEUPTIMER_ENABLE(&hRTC_Handle);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __HAL_REMAPTRIGGER_ENABLE
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_tim_template.c: In function 'HAL_ResumeTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(150,3): warning : implicit declaration of function '__HAL_TIM_ENABLE_IT'; did you mean '__HAL_I2C_ENABLE_IT'? [-Wimplicit-function-declaration]
+     __HAL_TIM_ENABLE_IT(&TimHandle, TIM_IT_UPDATE);
+     ^~~~~~~~~~~~~~~~~~~
+     __HAL_I2C_ENABLE_IT
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(221,7): warning : implicit declaration of function '__HAL_RTC_WRITEPROTECTION_ENABLE'; did you mean '__RTC_WRITEPROTECTION_ENABLE'? [-Wimplicit-function-declaration]
+         __HAL_RTC_WRITEPROTECTION_ENABLE(&hRTC_Handle);
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         __RTC_WRITEPROTECTION_ENABLE
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_wakeup_template.c: In function 'HAL_SuspendTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(242,50): error : 'RTC_IT_WUT' undeclared (first use in this function); did you mean 'RTC_CR_WUTE'?
+     __HAL_RTC_WAKEUPTIMER_DISABLE_IT(&hRTC_Handle, RTC_IT_WUT);
+                                                    ^~~~~~~~~~
+                                                    RTC_CR_WUTE
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_wakeup_template.c: In function 'HAL_ResumeTick':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(258,49): error : 'RTC_IT_WUT' undeclared (first use in this function); did you mean 'RTC_CR_WUTE'?
+     __HAL_RTC_WAKEUPTIMER_ENABLE_IT(&hRTC_Handle, RTC_IT_WUT);
+                                                   ^~~~~~~~~~
+                                                   RTC_CR_WUTE
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(150,35): error : 'TIM_IT_UPDATE' undeclared (first use in this function); did you mean 'TIM_DIER_UDE'?
+     __HAL_TIM_ENABLE_IT(&TimHandle, TIM_IT_UPDATE);
+                                     ^~~~~~~~~~~~~
+                                     TIM_DIER_UDE
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_wakeup_template.c: At top level:
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(271,41): error : unknown type name 'RTC_HandleTypeDef'; did you mean 'I2C_HandleTypeDef'?
+   void HAL_RTCEx_WakeUpTimerEventCallback(RTC_HandleTypeDef *hrtc)
+                                           ^~~~~~~~~~~~~~~~~
+                                           I2C_HandleTypeDef
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_tim_template.c: At top level:
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(161,36): error : unknown type name 'TIM_HandleTypeDef'; did you mean 'I2C_HandleTypeDef'?
+   void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
+                                      ^~~~~~~~~~~~~~~~~
+                                      I2C_HandleTypeDef
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_wakeup_template.c: In function 'RTC_WKUP_IRQHandler':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_rtc_wakeup_template.c(283,3): warning : implicit declaration of function 'HAL_RTCEx_WakeUpTimerIRQHandler'; did you mean 'HAL_RCC_NMI_IRQHandler'? [-Wimplicit-function-declaration]
+     HAL_RTCEx_WakeUpTimerIRQHandler(&hRTC_Handle);
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     HAL_RCC_NMI_IRQHandler
+  ../test/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_tim_template.c: In function 'TIM6_DAC1_IRQHandler':
+C:\Users\khali\OneDrive\Bureau\wafafinal\projet\..\test\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_timebase_tim_template.c(173,3): warning : implicit declaration of function 'HAL_TIM_IRQHandler'; did you mean 'HAL_DMA_IRQHandler'? [-Wimplicit-function-declaration]
+     HAL_TIM_IRQHandler(&TimHandle);
+     ^~~~~~~~~~~~~~~~~~
+     HAL_DMA_IRQHandler
+  make: *** [Debug/stm32f3xx_hal_timebase_rtc_alarm_template.o] Error 1
+  make: *** Waiting for unfinished jobs....
+  make: *** [Debug/stm32f3xx_hal_timebase_rtc_wakeup_template.o] Error 1
+  make: *** [Debug/stm32f3xx_hal_timebase_tim_template.o] Error 1
+  -------------------------------------------------------------
+  Command exited with code 2
+  Executable: C:\SysGCC\arm-eabi\bin\make.exe
+  Arguments:  CONFIG=Debug -j8
+  Directory: C:\Users\khali\OneDrive\Bureau\wafafinal\projet
+VisualGDB : error : Command-line action failed
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files (x86)\Sysprogs\VisualGDB\\VisualGDB.exe" /build "C:\Users\khali\OneDrive\Bureau\wafafinal\projet\projet.vcxproj" "/solution:C:\Users\khali\OneDrive\Bureau\wafafinal\projet.sln"  "/config:Debug" "/platform:Win32"" exited with code 1.
